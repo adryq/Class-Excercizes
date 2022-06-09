@@ -1,0 +1,21 @@
+h1 {
+    text-align:center;
+}
+
+.subheader {
+    display: flex;
+    justify-content: center;
+
+}
+h4 {
+    text-align: center;
+    border: 3px solid black;
+
+}
+.card-title{
+    border: 3px solid black;
+    width: 200px;
+    text-align: center;
+}
+
+}
